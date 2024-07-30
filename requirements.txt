@@ -1,6 +1,7 @@
-pandas
 Flask
 gunicorn
 numpy
 scikit-learn
 joblib
+pandas
+xlrd>=2.0.1
